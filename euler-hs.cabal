@@ -1,0 +1,13 @@
+name:                euler-hs
+version:             0.1.0.0
+synopsis:            Haskell solutions to the Project Euler problems
+homepage:            https://github.com/chrisfosterelli/euler.hs
+license:             MIT
+license-file:        LICENSE
+author:              Chris Foster
+maintainer:          chris.james.foster@gmail.com
+cabal-version:       >=1.10
+
+library
+  build-depends:       arithmoi == 4.*, base == 4.*
+  default-language:    Haskell2010
