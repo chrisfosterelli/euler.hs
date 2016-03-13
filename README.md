@@ -9,7 +9,7 @@ attempting to solve and post my solutions to the first 100 problems.
 
 _I'm not a great Haskell programmer or mathematician_. These solutions are 
 probably not the most idiomatic way to solve each problem in Haskell, and they
-are very likely not the most efficient solutions. If you've got a suggestion,
+are often not the most efficient solutions. If you've got a suggestion,
 please make a 
 [pull request](https://github.com/chrisfosterelli/euler.hs/compare?expand=1)!
 
